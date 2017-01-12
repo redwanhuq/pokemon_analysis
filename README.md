@@ -1,1 +1,1 @@
-# Not a complete readme!
+# Secrets of the Pokedex revealed here
