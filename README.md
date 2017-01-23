@@ -1,2 +1,4 @@
-# Exploring the Pokemon dataset with pandas and seaborn
-The fully documented analysis can be found in the Jupyter notebook in this repo. The Pokemon dataset was made available on [Kaggle](https://www.kaggle.com/abcsds/pokemon) and can also be found in this repo. If you have any suggestions, comments or questions on the analysis, please visit the [blog post](http://machinemadephd.com/posts/exploring-pokemon-dataset).
+## This repo contains all analyses I've performed using the Pokemon dataset
+### Contents
+- Pokemon dataset (CSV)
+- Exploring the Pokemon dataset with pandas and seaborn (Jupyter iPython notebook)
